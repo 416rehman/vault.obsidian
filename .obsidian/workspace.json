@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "044e0b1a2f23aaf3",
+        "id": "c1ba9b7d8c06fd12",
         "type": "tabs",
         "children": [
           {
-            "id": "08508cb6e47ea110",
+            "id": "ddaa118cc17ad7e0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Drawings/new.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -91,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drawings/new.excalidraw.md",
+                "file": "Drawings/hi.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Drawings/new.excalidraw.md",
+                "file": "Drawings/hi.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drawings/new.excalidraw.md"
+                "file": "Drawings/hi.excalidraw.md"
               }
             }
           }
@@ -156,13 +154,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "08508cb6e47ea110",
+  "active": "5fcdbb56e3414699",
   "lastOpenFiles": [
     "Notes/Untitled Kanban.md",
     "Boards/Untitled Kanban.md",
     "Home.md",
-    "Drawings/new.excalidraw.md",
-    "Drawings/new.excalidraw.svg",
+    "Drawings/hi.excalidraw.md",
+    "Drawings/hi.excalidraw.svg",
     "_obsidian/_attachments/Pasted Image 20230205220603_747.png",
     "_obsidian/_attachments/Pasted Image 20230205220536_790.png",
     "Notes/canvas.canvas",
