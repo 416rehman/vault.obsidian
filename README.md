@@ -19,9 +19,8 @@ This vault is designed to be used as a Wiki so all the notes can be viewed in th
 
 1. Create a new repository by clicking `Use this template` and clone the newly-created repository.
 2. Go to the Wiki tab in your repo, and initialize a new blank page, and copy the Wiki GIT url (bottom right in Wiki tab).
-3. Run the following 
+3. Open a terminal in the cloned repo directory, and run `git remote set-url origin <your wiki git url>`, then run the following 
 ```bash
-git remote set-url origin <your wiki git url> #Point to the WIKI, instead of the repo.
 git fetch # Get the branches of the WIKI (default: master)
 git pull --allow-unrelated-histories # Get any files/changes from the wiki
 git push # Push everything to the wiki
