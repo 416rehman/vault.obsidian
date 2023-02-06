@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## To Do
 
-- [ ] [[Hello]]
+- [ ] [[Boards/_kanban_tasks/Hello]]
 
 
 ## Doing
