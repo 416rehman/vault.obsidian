@@ -17,9 +17,9 @@ The following directories are used in this repository:
 ## How to use this repository
 This repository is designed to be used as a Wiki so all the notes can be viewed in the browser through Github Wiki from your repository.
 
-1. Click on `Use this template` to create a new repository from this template.
-2. Initialize the Wiki for your repository by creating a random page in the Wiki tab.
-3. Clone your repo and set the remote origin to your wiki by running `git remote set-url origin <your wiki repository url>`.
+1. Create a new repository by clicking `Use this template` and clone the newly-created repository.
+2. Go to the Wiki tab in your repo, and initialize a new blank page, and copy the Wiki GIT url (bottom right in Wiki tab).
+3. Set the remote origin of the cloned repo to the wiki by running `git remote set-url origin <your wiki git url>`.
 4. Push the changes to your wiki repository by running `git push`.
-5. Open the repo folder as a vault in Obsidian by clicking on `Open folder as vault` in Obsidian.
+5. Open the repo folder as a vault in Obsidian by clicking on `Open folder as vault` in Obsidian, and confirm any prompts.
 6. Enjoy! Write notes, they will sync to your wiki repository and you can view them in the browser.

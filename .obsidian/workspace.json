@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Hello.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Hello.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Hello.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Hello.md"
+                "file": "README.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "ddaa118cc17ad7e0",
   "lastOpenFiles": [
+    "Notes/Hello.md",
     "Drawings/hi.excalidraw.md",
     "Notes/Untitled Kanban.md",
     "Boards/Untitled Kanban.md",
@@ -169,7 +170,6 @@
     "_obsidian/_attachments/Pasted Image 20230205220603_747.png",
     "_obsidian/_attachments/Pasted Image 20230205220536_790.png",
     "Notes/canvas.canvas",
-    "Notes/canvas.md",
-    "Boards/Canvas.canvas"
+    "Notes/canvas.md"
   ]
 }
