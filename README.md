@@ -15,11 +15,16 @@ The following directories are used in this repository:
 **Note:** Each excalidraw `.md` file automatically creates a corresponding `.svg` file that is then embedded into the excalidraw `.md` file so the drawn contents are visible natively when the `.md` file is rendered outside Obsidian (such as in Github). 
 
 ## How to use this repository
-This repository is designed to be used as a Wiki so all the notes can be viewed in the browser through Github Wiki from your repository.
+This vault is designed to be used as a Wiki so all the notes can be viewed in the browser through Github Wiki from your repository.
 
 1. Create a new repository by clicking `Use this template` and clone the newly-created repository.
 2. Go to the Wiki tab in your repo, and initialize a new blank page, and copy the Wiki GIT url (bottom right in Wiki tab).
-3. Set the remote origin of the cloned repo to the wiki by running `git remote set-url origin <your wiki git url>`.
-4. Push the changes to your wiki repository by running `git push`.
-5. Open the repo folder as a vault in Obsidian by clicking on `Open folder as vault` in Obsidian, and confirm any prompts.
-6. Enjoy! Write notes, they will sync to your wiki repository and you can view them in the browser.
+3. Run the following 
+```bash
+git remote set-url origin <your wiki git url> #Point to the WIKI, instead of the repo.
+git fetch # Get the branches of the WIKI (default: master)
+git pull --allow-unrelated-histories # Get any files/changes from the wiki
+git push # Push everything to the wiki
+```
+4. Open the repo folder as a vault in Obsidian by clicking on `Open folder as vault` in Obsidian, and confirm any prompts.
+5. Enjoy! Write notes, they will automatically sync to your wiki and you can view them in the browser.
