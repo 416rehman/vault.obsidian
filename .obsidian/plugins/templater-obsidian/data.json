@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "_templates",
+  "templates_folder": "_obsidian/_templates",
   "templates_pairs": [
     [
       "",
@@ -15,8 +15,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "Drawings",
+      "template": "_obsidian/_templates/_excalidraw.template.md"
     }
   ],
   "syntax_highlighting": true,
@@ -24,7 +24,7 @@
     ""
   ],
   "startup_templates": [
-    ""
+    "_obsidian/_templates/_startup.template.md"
   ],
   "enable_ribbon_icon": true
 }
