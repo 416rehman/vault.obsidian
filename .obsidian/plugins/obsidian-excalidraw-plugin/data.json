@@ -8,7 +8,7 @@
   "autosaveInterval": 15000,
   "autosaveIntervalDesktop": 15000,
   "autosaveIntervalMobile": 10000,
-  "drawingFilenamePrefix": "new",
+  "drawingFilenamePrefix": "_new",
   "drawingEmbedPrefixWithFilename": true,
   "drawingFilnameEmbedPostfix": "",
   "drawingFilenameDateTime": "",
