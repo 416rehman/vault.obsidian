@@ -90,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -176,9 +175,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c184e007631db877",
+  "active": "ddaa118cc17ad7e0",
   "lastOpenFiles": [
     "Notes/Hello.md",
+    "README.md",
     "Drawings/hi.excalidraw.md",
     "Notes/Untitled Kanban.md",
     "Boards/Untitled Kanban.md",
