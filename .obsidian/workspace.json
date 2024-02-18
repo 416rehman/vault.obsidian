@@ -73,6 +73,22 @@
               "type": "tagfolder-view",
               "state": {}
             }
+          },
+          {
+            "id": "82c929e09432aa24",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "88aa22a87ae6388c",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 3
@@ -164,13 +180,3 @@
   "lastOpenFiles": [
     "Notes/Hello.md",
     "Drawings/hi.excalidraw.md",
-    "Notes/Untitled Kanban.md",
-    "Boards/Untitled Kanban.md",
-    "Home.md",
-    "Drawings/hi.excalidraw.svg",
-    "_obsidian/_attachments/Pasted Image 20230205220603_747.png",
-    "_obsidian/_attachments/Pasted Image 20230205220536_790.png",
-    "Notes/canvas.canvas",
-    "Notes/canvas.md"
-  ]
-}

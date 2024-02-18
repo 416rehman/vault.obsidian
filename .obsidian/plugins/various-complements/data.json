@@ -47,91 +47,235 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "test": {
-      "test": {
+    "Battlecry": {
+      "Battlecry": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1675648012429
+          "count": 4,
+          "lastUpdated": 1677301052021
         }
       }
     },
-    "plugin": {
-      "plugin": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1675648018524
-        }
-      }
-    },
-    "something": {
-      "something": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1675648021562
-        }
-      }
-    },
-    "about": {
-      "about": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1675648025546
-        }
-      }
-    },
-    "Plugin": {
-      "Plugin": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1675648046601
-        }
-      }
-    },
-    "Untitled": {
-      "Untitled": {
+    "Rune": {
+      "Rune": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1675648052715
+          "count": 3,
+          "lastUpdated": 1677301141957
         }
       }
     },
-    "Contains": {
-      "Contains": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1675648141825
-        }
-      }
-    },
-    "Excalidraw": {
-      "Excalidraw": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1675648152187
-        }
-      }
-    },
-    "_excalidraw.template": {
-      "_excalidraw.template": {
+    "Ability": {
+      "Ability": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1675648172942
+          "count": 3,
+          "lastUpdated": 1677301008437
         }
       }
     },
-    "Kanban-plugin": {
-      "Kanban-plugin": {
+    "Talent": {
+      "Talent": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1677298791232
+        }
+      }
+    },
+    "Resilience": {
+      "Resilience": {
         "currentVault": {
           "count": 1,
-          "lastUpdated": 1675648199589
+          "lastUpdated": 1677298135328
         }
       }
     },
-    "excalidraw": {
-      "excalidraw": {
+    "Endurance": {
+      "Endurance": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1677298137744
+        }
+      }
+    },
+    "items": {
+      "items": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1677298829332
+        }
+      }
+    },
+    "ITEMS": {
+      "ITEMS": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1677298843786
+        }
+      }
+    },
+    "Item": {
+      "Item": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1677302191752
+        }
+      }
+    },
+    "CalculatedAttribute": {
+      "CalculatedAttribute": {
         "currentFile": {
           "count": 2,
-          "lastUpdated": 1675650731371
+          "lastUpdated": 1677300958884
+        }
+      }
+    },
+    "InstigatorItemDmg": {
+      "InstigatorItemDmg": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677300696419
+        }
+      }
+    },
+    "BaseAttribute": {
+      "BaseAttribute": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677300979665
+        }
+      }
+    },
+    "Perks": {
+      "Perks": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1677301058190
+        }
+      }
+    },
+    "return": {
+      "return": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677303052587
+        }
+      }
+    },
+    "CriticalHitChance": {
+      "CriticalHitChance": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1677305484859
+        }
+      }
+    },
+    "ScaleToStrength": {
+      "ScaleToStrength": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677303461856
+        }
+      }
+    },
+    "DmgMin": {
+      "DmgMin": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677303624935
+        }
+      }
+    },
+    "TryApplyCriticalDamage": {
+      "TryApplyCriticalDamage": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677303638244
+        }
+      }
+    },
+    "ScaledHitDamage": {
+      "ScaledHitDamage": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677303642531
+        }
+      }
+    },
+    "mainAttributes": {
+      "mainAttributes": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677304144591
+        }
+      }
+    },
+    "LifeOnHit": {
+      "LifeOnHit": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677305470674
+        }
+      }
+    },
+    "LifeOnKill": {
+      "LifeOnKill": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677305477031
+        }
+      }
+    },
+    "CriticalHitDamage": {
+      "CriticalHitDamage": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677305490137
+        }
+      }
+    },
+    "Vitality": {
+      "Vitality": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677309591824
+        }
+      }
+    },
+    "LifeIncreasePerVitality": {
+      "LifeIncreasePerVitality": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677309597379
+        }
+      }
+    },
+    "DEFAULT": {
+      "DEFAULT": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677309705791
+        }
+      }
+    },
+    "Common": {
+      "Common": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1677623116087
+        }
+      }
+    },
+    "Regions": {
+      "Regions": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1679434786579
+        }
+      }
+    },
+    "Governments": {
+      "Governments": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1679437083130
         }
       }
     }

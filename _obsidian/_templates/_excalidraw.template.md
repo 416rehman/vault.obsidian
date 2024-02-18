@@ -1,17 +1,16 @@
 ---
-
 excalidraw-plugin: parsed
-tags: [excalidraw]
-
+tags:
+  - excalidraw
 ---
 
 ![[<% tp.file.title %>.svg]]
 
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+# Text Elements
 
 %%
 # Drawing
 ```json
-{"type":"excalidraw","version":2,"source":"https://excalidraw.com","elements":[],"appState":{"gridSize":null,"viewBackgroundColor":"#ffffff"}}
+{"type":"excalidraw","version":2,"source":"https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.20","elements":[],"appState":{"gridSize":null,"viewBackgroundColor":"#ffffff"}}
 ```
 %%

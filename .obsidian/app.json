@@ -13,5 +13,8 @@
   },
   "showLineNumber": false,
   "newFileFolderPath": "Notes",
-  "showUnsupportedFiles": false
+  "showUnsupportedFiles": false,
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest",
+  "userIgnoreFilters": null
 }
